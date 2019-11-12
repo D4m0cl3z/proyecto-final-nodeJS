@@ -1,0 +1,83 @@
+
+body{
+    background-color: rgb(113, 139, 122);
+    font-family: 'Yeon Sung', cursive;
+}
+#boton{
+    font-size: 40px;
+    font-family: 'Yeon Sung', cursive;
+    height: 80px;
+    width: 300px;
+    background-color: chartreuse ;
+     box-shadow: rgb(138, 170, 105);
+   margin-left: 39%;
+   margin-top: 5%;
+}
+
+.boton{
+
+    font-size: 40px;
+    font-family: 'Yeon Sung', cursive;
+    height: 80px;
+    width: 300px;
+    background-color: chartreuse ;
+     box-shadow: rgb(138, 170, 105);
+     margin-left: 39%;
+
+}
+
+.escenario{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+#caballero{
+    display: flex;
+   
+    
+}
+
+#texto{
+    font-size: 2vw;
+    text-align: center;
+   
+}
+
+#texto2{
+    margin-top: 6%;
+}
+.arbol1{
+   
+    display: flex;
+}
+
+#gandalf{
+    margin-top: 6%;
+    display: flex;
+    height: 60vh;
+    width: 47vw;
+}
+
+#titulo{
+    margin-top: 15%;
+    font-size: 50px;
+    text-align: center;
+}
+
+.stage{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.botonDecicion{
+    font-size: 1.2vw;
+
+}
+#botones{
+
+   font-family: 'Yeon Sung', cursive;
+    display: flex;
+    justify-content: space-around;
+
+}
